@@ -24,7 +24,7 @@ pkg
 Gemfile.lock
 
 ## RBENV
-.ruby-version
+#.ruby-version
 .rbenv*
 
 ## RCOV

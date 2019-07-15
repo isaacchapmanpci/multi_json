@@ -5,3 +5,8 @@ cache:
     - Gemfile
     - .ruby-version
 
+tests:
+  - bundle --version
+  - which bundle
+  - ruby --version
+  - which ruby
